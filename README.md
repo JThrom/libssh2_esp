@@ -54,3 +54,12 @@ currently supported is `mbedTLS` which comes bundled into ESP-IDF by default.
 ## License
 
 Released under [BSD-3-Clause](/LICENSE) by [@skuodi](https://github.com/skuodi).
+
+## Featured projects
+
+The following awesome projects make use of this library:
+
+1. [PocketSSH](https://github.com/0015/PocketSSH) by [ThatProject](https://www.youtube.com/watch?v=8vas6oH3qcA) on Youtube - portable SSH terminal based on [LILYGO T-Deck Plus](https://lilygo.cc/products/t-deck-plus-1)
+
+  [![Video Title](https://img.youtube.com/vi/8vas6oH3qcA/0.jpg)](https://www.youtube.com/watch?v=8vas6oH3qcA)
+
