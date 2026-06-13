@@ -27,6 +27,10 @@ set(CSOURCES    ${LIBSSH2_DIR}/src/agent.c
                 ${LIBSSH2_DIR}/src/version.c
                 ${LIBSSH2_DIR}/src/blowfish.c
                 ${LIBSSH2_DIR}/src/mbedtls.c
+                ${LIBSSH2_DIR}/src/ed25519_ref10_verify.c
+                ${LIBSSH2_DIR}/src/third_party/ed25519_ref10/fe.c
+                ${LIBSSH2_DIR}/src/third_party/ed25519_ref10/ge.c
+                ${LIBSSH2_DIR}/src/third_party/ed25519_ref10/sc.c
                 )
 
 set(INCLUDES    ${LIBSSH2_DIR}/src
