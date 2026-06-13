@@ -1,3 +1,4 @@
 [submodule "libssh2"]
 	path = libssh2
-	url = https://github.com/libssh2/libssh2
+	url = https://github.com/JThrom/libssh2
+	branch = esp-ed25519-compat
